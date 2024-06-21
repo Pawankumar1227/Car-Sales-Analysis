@@ -1,0 +1,18 @@
+Problem Statment
+
+●	Task 1.A: Create a pivot table that shows the number of car models in each market category and their corresponding popularity scores.
+●	Task 1.B: Create a combo chart that visualizes the relationship between market category and popularity.
+
+
+●	Task 2:  Create a scatter chart that plots engine power on the x-axis and price on the y-axis. Add a trendline to the chart to visualize the relationship between these variables.
+
+
+●	Task 3: Use regression analysis to identify the variables that have the strongest relationship with a car's price. Then create a bar chart that shows the coefficient values for each variable to visualize their relative importance
+
+Insight Required: How does the average price of a car vary across different manufacturers?
+●	Task 4.A: Create a pivot table that shows the average price of cars for each manufacturer. 
+●	Task 4.B: Create a bar chart or a horizontal stacked bar chart that visualizes the relationship between manufacturer and average price.
+
+
+●	Task 5.A: Create a scatter plot with the number of cylinders on the x-axis and highway MPG on the y-axis. Then create a trendline on the scatter plot to visually estimate the slope of the relationship and assess its significance.
+●	Task 5.B: Calculate the correlation coefficient between the number of cylinders and highway MPG to quantify the strength and direction of the relationship.
