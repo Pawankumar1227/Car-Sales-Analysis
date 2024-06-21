@@ -9,9 +9,8 @@ Problem Statment
 
 ●	Task 3: Use regression analysis to identify the variables that have the strongest relationship with a car's price. Then create a bar chart that shows the coefficient values for each variable to visualize their relative importance
 
-Insight Required: How does the average price of a car vary across different manufacturers?
 ●	Task 4.A: Create a pivot table that shows the average price of cars for each manufacturer. 
-●	Task 4.B: Create a bar chart or a horizontal stacked bar chart that visualizes the relationship between manufacturer and average price.
+●	Task 4.B: Create a bar chart or a horizontal stacked bar chart that visualizes the relationship between the manufacturer and the average price.
 
 
 ●	Task 5.A: Create a scatter plot with the number of cylinders on the x-axis and highway MPG on the y-axis. Then create a trendline on the scatter plot to visually estimate the slope of the relationship and assess its significance.
